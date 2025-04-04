@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG Local",
+            "database": "test",
+            "username": "postgres",
+            "password": "pass"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Fintrack PG Local",
+            "database": "fintrack",
+            "username": "postgres",
+            "password": "pass"
+        }
+    ]
+}
